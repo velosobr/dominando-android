@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Parcelable</string>
-    <string name="main_button_parcel">parcelable button</string>
+    <string name="main_button_parcel">Parcelable via intent</string>
 </resources>
